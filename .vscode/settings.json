@@ -22,5 +22,6 @@
         "**/_pycache_": true,
         ".pytest_cache": true,
         ".coverage": true
-    }
+    },
+    "C_Cpp.errorSquiggles": "enabled"
 }
